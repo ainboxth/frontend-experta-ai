@@ -7,5 +7,5 @@ export const ConfigPage = {
     
     //============== production =====================
     URL_WORK_IMG: "src/images/img2img",
-    URL_BACKEND: "https://boar-magnetic-happily.ngrok-free.app/"
+    URL_BACKEND: "https://mistakenly-in-panther.ngrok-free.app"
 }
